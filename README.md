@@ -1,7 +1,7 @@
-# TechHazardQA
+### How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries
 
 We are updating our repository.
-The smaller version of the dataset can be found at [Huggingface](https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA).
+The smaller version of the dataset `TechHazardQA` can be found at [Huggingface](https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA).
 
 If you are using this dataset, please cite our paper
 
