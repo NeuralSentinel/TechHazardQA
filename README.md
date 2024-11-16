@@ -1,5 +1,5 @@
 ## How (un)ethical are instruction-centric responses of LLMs? Unveiling the vulnerabilities of safety guardrails to harmful queries
-### :loudspeaker: Accepted at AAAI Conference on Web and Social Media, 2025
+### :loudspeaker: Accepted at AAAI Conference on Web and Social Media, ICWSM 2025
 
 We are updating our repository.
 The dataset `TechHazardQA` can be found at [Huggingface](https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA).
