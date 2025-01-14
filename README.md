@@ -2,6 +2,9 @@
 ### :loudspeaker: Accepted at AAAI Conference on Web and Social Media, ICWSM 2025
 
 We are updating our repository.
+Read our paper from [Arxiv](https://arxiv.org/abs/2402.15302).
+
+
 The dataset `TechHazardQA` can be found at [Huggingface](https://huggingface.co/datasets/SoftMINER-Group/TechHazardQA).
 
 If you are using this dataset, please cite our paper
